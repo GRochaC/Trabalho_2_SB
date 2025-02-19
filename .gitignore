@@ -1,6 +1,4 @@
 chave.txt
 alocador.o
 carregador.o
-int_to_string.o
-main.o
 print_aloc.o
